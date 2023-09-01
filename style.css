@@ -41,3 +41,23 @@ progress::-webkit-progress-value {
   margin-right: 12px;
   border-radius: 50%;
 }
+
+.prose {  
+  max-width: 75ch;
+}
+.prose ul {  
+  margin-bottom: -0.5em !important;
+  margin-top: -0.5em !important;  
+  margin-left: -2em;
+}
+.prose .mb-6 h3 {
+  margin-top: 0.8rem;
+}
+footer a {
+  font-size: 10px !important;
+  padding: 1px !important;
+  margin: 1px !important;
+  line-height: 10px !important;
+  color: #bbbbbb !important;
+  border: none !important;
+}
