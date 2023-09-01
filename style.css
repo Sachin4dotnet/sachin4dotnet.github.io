@@ -28,20 +28,6 @@ progress::-webkit-progress-value {
   color: #10b981 !important;
 }
 
-#chrisko-headline::before {
-  display: inline-block;
-  height: 30px;
-  width: 30px;
-  position: relative;
-  bottom: -8px;
-  content: "";
-  background-image: url("./assets/chrisko-icon.png");
-  background-position: center;
-  background-size: contain;
-  margin-right: 12px;
-  border-radius: 50%;
-}
-
 .prose {  
   max-width: 75ch;
 }
